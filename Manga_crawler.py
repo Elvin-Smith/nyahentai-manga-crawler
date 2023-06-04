@@ -11,8 +11,8 @@ import batch as batch
 class crawler:
     def __init__(self): 
         self.headers={
-                        'Cookie':'_im_vid=01H1ZSX6KM0XABSHJ59AD0TGZ6; _gid=GA1.2.841562950.1685768281; _ga_X42TH49BB5=GS1.1.1685802236.5.1.1685807531.0.0.0; _ga=GA1.2.1589795454.1685768276',
-                        'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.35'
+                        'Cookie':'',
+                        'User-Agent':''
                     }
         
         
