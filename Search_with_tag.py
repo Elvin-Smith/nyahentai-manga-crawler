@@ -9,8 +9,8 @@ class Tag_Search():
         self.page_num="134"
         self.status=0
         self.headers={
-                        'Cookie':'_im_vid=01H1ZSX6KM0XABSHJ59AD0TGZ6; _gid=GA1.2.841562950.1685768281; _ga_X42TH49BB5=GS1.1.1685846370.6.1.1685846371.0.0.0; _ga=GA1.2.1589795454.1685768276',
-                        'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.35'
+                        'Cookie':'',
+                        'User-Agent':''
                     }
 
     def Creat_url(self,page_current):
